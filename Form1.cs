@@ -115,6 +115,7 @@ namespace Karesz
 
             form_teljesen_kész = true;
             Robot.form = this;
+            Frissít();
         }
 
         void Frissít()
